@@ -1,0 +1,53 @@
+.Contact {
+  margin-bottom: 8%;
+}
+.Contact > .Heading {
+  width: 20%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2%;
+}
+.Contact > .Heading > p {
+  color: #c8fff4;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1.5px;
+}
+.Contact > .Details {
+  width: 80%;
+  margin: auto;
+}
+.Contact > .Details > div {
+  display: flex;
+  align-items: center;
+  color: white;
+  font-size: larger;
+  margin-bottom: 4%;
+}
+.Contact > .Details > div > svg {
+  margin-right: 2%;
+}
+.Contact > .Details > div > a {
+  text-decoration: none;
+  color: white;
+}
+.Contact > .Details > div > a:hover .Contact > .Details > div > svg {
+  color: rgb(255, 173, 73);
+}
+.Love {
+  padding-bottom: 10px;
+  background-color: rgb(38, 38, 38);
+}
+.Love > p {
+  color: white;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.Love > p > img {
+  width: 50px;
+  height: 40px;
+  object-fit: cover;
+}

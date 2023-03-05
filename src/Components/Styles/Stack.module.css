@@ -1,0 +1,49 @@
+.Stack {
+  margin-bottom: 8%;
+}
+.Stack > .Heading {
+  width: 19%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 2%;
+}
+.Stack > .Heading > p {
+  color: #c8fff4;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1.5px;
+}
+.Stack > .Display_div {
+  width: 80%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 80px 0px;
+}
+.Stack > .Display_div > div {
+  text-align: center;
+  /* border: 1px solid white; */
+  color: white;
+  cursor: pointer;
+}
+.Stack > .Display_div > div > p {
+  font-size: larger;
+  letter-spacing: 0.8px;
+}
+.Stack > .Display_div > div > img {
+  width: 70px;
+  width: 70px;
+  object-fit: cover;
+  margin-top: 5%;
+  margin-bottom: 8%;
+  opacity: 0.8;
+  transition: all 0.2s ease-in;
+}
+.Stack > .Display_div > div > img:hover {
+  opacity: 1;
+  width: 80px;
+  width: 80px;
+}

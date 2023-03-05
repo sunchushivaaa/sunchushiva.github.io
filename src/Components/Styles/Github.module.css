@@ -1,0 +1,29 @@
+.Github {
+  margin-bottom: 8%;
+}
+.Github > .Heading {
+  width: 25%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 2%;
+}
+.Github > .Heading > p {
+  color: #c8fff4;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  letter-spacing: 1.5px;
+}
+.Github > .Display_div > .Small {
+  width: 60%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+/* .Github > .Display_div {
+  width: 80%;
+  margin: auto;
+} */
