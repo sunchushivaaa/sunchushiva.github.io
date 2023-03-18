@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.13cb54dd.css",
-    "main.js": "/static/js/main.39746ac4.js",
+    "main.js": "/static/js/main.ff9aa90a.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/background1.jpg": "/static/media/background1.0c1b572df4c7e18d4957.jpg",
     "static/media/Bluefly.png": "/static/media/Bluefly.ee1d6e6e160a103476fb.png",
     "static/media/5mg.png": "/static/media/5mg.29368c5f19bc0400ec79.png",
     "static/media/monster.gif": "/static/media/monster.946fc8136a19016ab65a.gif",
-    "static/media/Farfetch.png": "/static/media/Farfetch.e82fa6484e42462f79ef.png",
     "static/media/Industrylab.png": "/static/media/Industrylab.1f8440b4f2d3a0415374.png",
     "static/media/Shiva_Sunchu_Resume.pdf": "/static/media/Shiva_Sunchu_Resume.fec923829c79b6f0178c.pdf",
     "static/media/flower.gif": "/static/media/flower.ed47554733e578527df6.gif",
+    "static/media/Farfetch.png": "/static/media/Farfetch.f8c18ccbad07470f00c2.png",
     "static/media/Picture.jpg": "/static/media/Picture.78d2d7e993299144a233.jpg",
     "static/media/Redux.png": "/static/media/Redux.1b4bb5fceb01b19da59d.png",
     "static/media/React.png": "/static/media/React.0cf951a69d8e58f83f9d.png",
@@ -28,11 +28,11 @@
     "static/media/email.svg": "/static/media/email.8da9e87edffd2ffc5a503030b9ad3655.svg",
     "index.html": "/index.html",
     "main.13cb54dd.css.map": "/static/css/main.13cb54dd.css.map",
-    "main.39746ac4.js.map": "/static/js/main.39746ac4.js.map",
+    "main.ff9aa90a.js.map": "/static/js/main.ff9aa90a.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13cb54dd.css",
-    "static/js/main.39746ac4.js"
+    "static/js/main.ff9aa90a.js"
   ]
 }
