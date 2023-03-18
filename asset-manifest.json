@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13cb54dd.css",
+    "main.js": "/static/js/main.e8270449.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/background1.jpg": "/static/media/background1.0c1b572df4c7e18d4957.jpg",
+    "static/media/Bluefly.png": "/static/media/Bluefly.ee1d6e6e160a103476fb.png",
+    "static/media/5mg.png": "/static/media/5mg.29368c5f19bc0400ec79.png",
+    "static/media/monster.gif": "/static/media/monster.946fc8136a19016ab65a.gif",
+    "static/media/Farfetch.png": "/static/media/Farfetch.e82fa6484e42462f79ef.png",
+    "static/media/Industrylab.png": "/static/media/Industrylab.1f8440b4f2d3a0415374.png",
+    "static/media/Shiva_Sunchu_Resume.pdf": "/static/media/Shiva_Sunchu_Resume.fec923829c79b6f0178c.pdf",
+    "static/media/flower.gif": "/static/media/flower.ed47554733e578527df6.gif",
+    "static/media/Picture.jpg": "/static/media/Picture.78d2d7e993299144a233.jpg",
+    "static/media/Redux.png": "/static/media/Redux.1b4bb5fceb01b19da59d.png",
+    "static/media/React.png": "/static/media/React.0cf951a69d8e58f83f9d.png",
+    "static/media/Node.png": "/static/media/Node.952a9ea986dcfa5229ad.png",
+    "static/media/Express.png": "/static/media/Express.cca64e0f360897258ecb.png",
+    "static/media/TypeScript.png": "/static/media/TypeScript.9b1779a2fd3504559e59.png",
+    "static/media/Next.png": "/static/media/Next.48ddc8121a0fcb543d64.png",
+    "static/media/Jest.png": "/static/media/Jest.809768de8350fa5f6a21.png",
+    "static/media/HTML.png": "/static/media/HTML.2ba4fabc69a89a8f71e6.png",
+    "static/media/Tailwind.png": "/static/media/Tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/CSS.png": "/static/media/CSS.69a82c2d9e45c933a9cb.png",
+    "static/media/Me.svg": "/static/media/Me.fcc5c3a49b09545a0bd6decf7e6ba635.svg",
+    "static/media/JavaScript.png": "/static/media/JavaScript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/phone.svg": "/static/media/phone.254374e051f5c44e33a7c8e8bef6333b.svg",
+    "static/media/email.svg": "/static/media/email.8da9e87edffd2ffc5a503030b9ad3655.svg",
+    "index.html": "/index.html",
+    "main.13cb54dd.css.map": "/static/css/main.13cb54dd.css.map",
+    "main.e8270449.js.map": "/static/js/main.e8270449.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13cb54dd.css",
+    "static/js/main.e8270449.js"
+  ]
+}
