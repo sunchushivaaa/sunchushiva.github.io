@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.13cb54dd.css",
-    "main.js": "/static/js/main.ff9aa90a.js",
+    "main.css": "/static/css/main.9ac140fd.css",
+    "main.js": "/static/js/main.d91d3255.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/background1.jpg": "/static/media/background1.0c1b572df4c7e18d4957.jpg",
     "static/media/Bluefly.png": "/static/media/Bluefly.ee1d6e6e160a103476fb.png",
@@ -24,15 +24,13 @@
     "static/media/CSS.png": "/static/media/CSS.69a82c2d9e45c933a9cb.png",
     "static/media/Me.svg": "/static/media/Me.fcc5c3a49b09545a0bd6decf7e6ba635.svg",
     "static/media/JavaScript.png": "/static/media/JavaScript.1ccd6ef9bb1f9c84ef00.png",
-    "static/media/phone.svg": "/static/media/phone.254374e051f5c44e33a7c8e8bef6333b.svg",
-    "static/media/email.svg": "/static/media/email.8da9e87edffd2ffc5a503030b9ad3655.svg",
     "index.html": "/index.html",
-    "main.13cb54dd.css.map": "/static/css/main.13cb54dd.css.map",
-    "main.ff9aa90a.js.map": "/static/js/main.ff9aa90a.js.map",
+    "main.9ac140fd.css.map": "/static/css/main.9ac140fd.css.map",
+    "main.d91d3255.js.map": "/static/js/main.d91d3255.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13cb54dd.css",
-    "static/js/main.ff9aa90a.js"
+    "static/css/main.9ac140fd.css",
+    "static/js/main.d91d3255.js"
   ]
 }
